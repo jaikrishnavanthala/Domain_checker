@@ -1,4 +1,4 @@
-# domain_checker
+# Domain_checker
 🚀 Project Overview
 The Domain Checker is a cybersecurity tool that analyzes and verifies a domain's authenticity to detect potential threats. It helps determine whether a domain is safe, suspicious, or potentially used for phishing by checking:
 
